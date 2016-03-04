@@ -1,0 +1,23 @@
+body {
+  background-color: #DADBE6;
+}
+
+.sentenceData {
+  margin-top: 24px;
+  margin-left: 144px;
+}
+
+.sentenceButton{
+  margin-top: 24px;
+  background-color: #4A5D7E;
+  color: white;
+}
+
+.gravatarSearch{
+  background-color: #4A5D7E;
+  color: white
+}
+
+h1 {
+  text-align: center;
+}
